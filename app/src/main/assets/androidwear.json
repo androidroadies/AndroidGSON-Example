@@ -1,0 +1,46 @@
+{
+  "watches": [
+    {
+      "name" : "ZTE quartz",
+      "price": "$130"
+    },
+    {
+      "name" : "New Balance RunIQ",
+      "price": "$190"
+    },
+
+    {
+      "name" : "Casio PRO TREK Smart",
+      "price": "$159"
+    },
+
+    {
+      "name" : "LG Watch Style",
+      "price": "$170"
+    },
+
+    {
+      "name" : "LG Watch Sport",
+      "price": "$220"
+    },
+
+    {
+      "name" : "Michael Kors Smart Watch",
+      "price": "$322"
+    },
+
+    {
+      "name" : "Montblanc Summit",
+      "price": "$200"
+    },
+    {
+      "name" : "Huawei Watch 2",
+      "price": "$199"
+    },
+    {
+      "name" : "Polar M600",
+      "price": "$212"
+    }
+  ]
+
+}
